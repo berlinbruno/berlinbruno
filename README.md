@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berlin Bruno</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **Spring Boot, Docker**
+- 🌱 I’m currently learning **Spring Boot, GCP**
 
 - 💬 Ask me about **React js, .Net MAUI**
 
