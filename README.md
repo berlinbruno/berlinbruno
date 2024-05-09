@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berlin Bruno</h1>
-<h3 align="center">Passionate learner eager to contribute to the software development industry. Focusing on innovation, hands-on learning, and proactive behavior. I embrace challenges and technology with enthusiasm, positioning myself as a dynamic asset..</h3>
+<h3 align="center">Passionate learner eager to contribute to the software development industry. Focusing on innovation, hands-on learning, and proactive behavior. I embrace challenges and technology with enthusiasm, positioning myself as a dynamic asset.</h3>
 
 - 🌱 I’m currently learning **Microservices**
 
