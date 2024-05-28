@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Microservices**
 
-- 👨‍💻 All of my projects are available at [berlinbruno.dev](berlinbruno.dev)
+- 👨‍💻 All of my projects are available at [berlinbruno.dev](https://berlinbruno.dev/)
 
 - 💬 Ask me about **Reactjs, Nextjs, Spring Boot**
 
