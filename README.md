@@ -6,6 +6,11 @@
 - 💬 **Ask Me About:** React.js, Next.js, Spring Boot
 - 📫 **Contact Me:** berlinbruno112@gmail.com
 
+# Key Projects
+### [Interactive Image Sharing Web App - PostIt](https://berlinbruno.dev/postit)
+- **Description:** A React.js application for sharing and downloading images with Google OAuth and Sanity CMS integration.
+- **Technologies Used:** React.js, Sanity CMS, Google OAuth
+
 # Connect With Me:
 <p align="left">
 <a href="https://dev.to/berlinbruno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="berlinbruno" height="30" width="40" /></a>
