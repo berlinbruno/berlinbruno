@@ -2,12 +2,12 @@
 <h3 align="center">Passionate learner eager to contribute to the software development industry. I focus on innovation, hands-on learning, and proactive behavior. Embracing challenges and technology with enthusiasm, I position myself as a dynamic asset.</h3>
 
 - 🌱 **Currently Learning:** Microservices
-- 👨‍💻 **Projects:** All of my projects are available at [[berlinbruno.dev](https://postitmedia.netlify.app/)
+- 👨‍💻 **Projects:** All of my projects are available at [berlinbruno.dev](https://berlinbruno.dev/)
 - 💬 **Ask Me About:** React.js, Next.js, Spring Boot
 - 📫 **Contact Me:** berlinbruno112@gmail.com
 
 # Key Projects
-### [Interactive Image Sharing Web App - PostIt](https://berlinbruno.dev/postit)
+### [Interactive Image Sharing Web App - PostIt](https://postitmedia.netlify.app/)
 - **Description:** A React.js application for sharing and downloading images with Google OAuth and Sanity CMS integration.
 - **Technologies Used:** React.js, Sanity CMS, Google OAuth
 
