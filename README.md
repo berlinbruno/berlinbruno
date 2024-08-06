@@ -2,7 +2,7 @@
 <h3 align="center">Passionate learner eager to contribute to the software development industry. I focus on innovation, hands-on learning, and proactive behavior. Embracing challenges and technology with enthusiasm, I position myself as a dynamic asset.</h3>
 
 - 🌱 **Currently Learning:** Microservices
-- 👨‍💻 **Projects:** All of my projects are available at [berlinbruno.dev](https://berlinbruno.dev/)
+- 👨‍💻 **Projects:** All of my projects are available at [[berlinbruno.dev](https://postitmedia.netlify.app/)
 - 💬 **Ask Me About:** React.js, Next.js, Spring Boot
 - 📫 **Contact Me:** berlinbruno112@gmail.com
 
