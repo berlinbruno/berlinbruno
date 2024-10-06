@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer and Lifelong Learner!</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=berlinbruno&label=Profile%20Views&color=0e75b6&style=flat" alt="berlinbruno" />
+  <img src="https://komarev.com/ghpvc/?username=berlinbruno&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <a href="https://buymeacoffee.com/berlinbruno" target="_blank">
     <img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-yellow?style=flat-square" alt="Buy me a coffee">
   </a>
@@ -14,37 +14,64 @@
   <img src="https://img.shields.io/badge/Frameworks-React%2C%20Next.js%2C%20Spring%20Boot-orange?style=flat-square" />
 </p>
 
-<p align="center">
+<p align="center" style="max-width: 800px; margin: 20px auto;">
   A passionate learner with an eager mindset to contribute to the software development industry. 
   I focus on innovation, hands-on learning, and problem-solving with proactive behavior. 
   Embracing challenges and technology with enthusiasm, I continuously position myself as a dynamic asset.
 </p>
 
----
-
-<h2 align="center">🌱 Currently Learning</h2>
+<p align="center">
+  <a href="mailto:berlinbruno112@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-berlinbruno112@gmail.com-red?style=flat-square" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/berlinbruno/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Berlin Bruno-0A66C2?style=flat-square" alt="LinkedIn" />
+  </a>
+  <a href="https://buymeacoffee.com/berlinbruno" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Berlin Bruno-yellow?style=flat-square" alt="Buy me a coffee" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Microservices-blueviolet?style=flat-square" alt="Microservices"/>
-  <img src="https://img.shields.io/badge/-DevOps-orange?style=flat-square" alt="DevOps"/>
-  <img src="https://img.shields.io/badge/-Cloud%20Architectures-brightgreen?style=flat-square" alt="Cloud Architectures"/>
+  🌐✨ Check out my portfolio: <a href="https://berlinbruno.dev" target="_blank">berlinbruno.dev</a> 🚀💼
 </p>
+
+
+---
+
+<h2 align="center" style="font-size: 2.5em; margin-bottom: 20px;">🌱 Currently Learning</h2>
+
+<p align="center">
+  <a href="https://microservices.io/" target="_blank" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/-Microservices-4D6F5D?style=for-the-badge&logo=cloudsmith&logoColor=white" alt="Microservices" style="border-radius: 30px; height: 60px; font-size: 1.2em;"/>
+  </a>
+  <a href="https://www.devops.com/" target="_blank" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/-DevOps-FFAA00?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps" style="border-radius: 30px; height: 60px; font-size: 1.2em;"/>
+  </a>
+  <a href="https://aws.amazon.com/architecture/" target="_blank" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/-Cloud%20Architectures-FF6F61?style=for-the-badge&logo=aws&logoColor=white" alt="Cloud Architectures" style="border-radius: 30px; height: 60px; font-size: 1.2em;"/>
+  </a>
+</p>
+
+<div style="border: 1px solid #eaeaea; border-radius: 20px; padding: 20px; background: linear-gradient(135deg, #f9f9f9, #e0e0e0); margin: 20px auto; max-width: 800px;">
+  <p align="center" style="font-size: 1.2em; color: #333;">Exploring the world of Microservices, DevOps practices, and Cloud Architectures to enhance my development skills and stay at the forefront of technology.</p>
+</div>
 
 ---
 
 <h2 align="center">🚀 Key Projects</h2>
 
-<table align="center">
+<table align="center" style="max-width: 800px;">
   <tr>
     <td>
-      <h3><a href="https://postitmedia.netlify.app/">Interactive Image Sharing Web App - PostIt</a></h3>
+      <h3><a href="https://postitmedia.netlify.app/" target="_blank">Interactive Image Sharing Web App - PostIt</a></h3>
       <p><strong>Description:</strong> A React.js application for sharing and downloading images with Google OAuth and Sanity CMS integration.</p>
       <p><strong>Technologies:</strong> React.js, Sanity CMS, Google OAuth, Tailwind CSS, Netlify</p>
     </td>
   </tr>
   <tr>
     <td>
-      <h3><a href="https://berlinbruno.dev">Personal Portfolio Website</a></h3>
+      <h3><a href="https://berlinbruno.dev" target="_blank">Personal Portfolio Website</a></h3>
       <p><strong>Description:</strong> My personal portfolio website showcasing all my projects, skills, and blog posts.</p>
       <p><strong>Technologies:</strong> Next.js, CSS Modules, Framer Motion, Sanity CMS</p>
     </td>
@@ -53,29 +80,31 @@
 
 ---
 
-<h2 align="center">💬 Ask Me About</h2>
+<h2 align="center" style="font-size: 2.5em; margin-bottom: 20px;">💬 Ask Me About</h2>
 
 <p align="center">
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React.js" />
+  <a href="https://reactjs.org/" target="_blank" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React.js" style="height: 60px;"/>
   </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <a href="https://nextjs.org/" target="_blank" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" style="height: 60px;"/>
   </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank">
-    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <a href="https://spring.io/projects/spring-boot" target="_blank" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" style="height: 60px;"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <a href="https://www.docker.com/" target="_blank" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="height: 60px;"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <a href="https://www.mongodb.com/" target="_blank" style="margin: 10px;">
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="height: 60px;"/>
   </a>
 </p>
 
+<div style="border: 1px solid #eaeaea; border-radius: 20px; padding: 20px; background: linear-gradient(135deg, #f9f9f9, #e0e0e0); margin: 20px auto; max-width: 800px;">
+  <p align="center" style="font-size: 1.2em; color: #333;">Feel free to reach out if you're interested in any of these technologies! I love discussing and exploring new ideas in web development.</p>
+</div>
+
 ---
-
-
 
 <h2 align="center">⚡ What I Use Every Day</h2>
 
@@ -121,78 +150,13 @@
   </table>
 </div>
 
-<h3 align="center">☁️ Cloud & Databases</h3>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="55" height="55"/><br>MySQL</td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="75" height="65"/><br>MongoDB</td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" width="55" height="55"/><br>Oracle</td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="55" height="55"/><br>Google Cloud</td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="55" height="55"/><br>Azure</td>
-    </tr>
-  </table>
-</div>
-
 ---
 
-
-<h2 align="center">📫 Contact Me</h2>
-
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <a href="mailto:berlinbruno112@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/berlinbruno" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://stackoverflow.com/users/24159080" target="_blank">
-    <img src="https://img.shields.io/badge/-Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
-  </a>
-  <a href="https://twitter.com/berlinbruno_" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://buymeacoffee.com/berlinbruno" target="_blank">
-    <img src="https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=berlinbruno&show_icons=true&theme=radical" alt="Berlin Bruno's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berlinbruno&theme=radical" alt="Berlin Bruno's GitHub Streak"/>
 </p>
-
-
----
-
-<h2 align="center">📈 GitHub Stats</h2>
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 20px; justify-items: center; margin-bottom: 40px;">
-  <div style="border: 2px solid #eaeaea; border-radius: 10px; padding: 20px; width: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=berlinbruno&show_icons=true&theme=radical" alt="Berlin Bruno's GitHub Stats" style="border-radius: 10px 10px 0 0;">
-    <p align="center" style="margin-top: 10px; font-weight: bold;">Overall Stats</p>
-  </div>
-
-  <div style="border: 2px solid #eaeaea; border-radius: 10px; padding: 20px; width: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img width="100%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berlinbruno&size_weight=0.0005&count_weight=0.3&layout=compact&theme=radical" alt="Top Languages" style="border-radius: 10px 10px 0 0;">
-    <p align="center" style="margin-top: 10px; font-weight: bold;">Top Languages</p>
-  </div>
-
-  <div style="border: 2px solid #eaeaea; border-radius: 10px; padding: 20px; width: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img width="100%" height="200" src="https://github-readme-streak-stats.herokuapp.com?user=berlinbruno&theme=radical" alt="GitHub Streaks" style="border-radius: 10px 10px 0 0;">
-    <p align="center" style="margin-top: 10px; font-weight: bold;">GitHub Streak</p>
-  </div>
-
-  <div style="border: 2px solid #eaeaea; border-radius: 10px; padding: 20px; width: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img width="100%" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=berlinbruno&theme=radical" alt="Profile Summary" style="border-radius: 10px 10px 0 0;">
-    <p align="center" style="margin-top: 10px; font-weight: bold;">Profile Summary</p>
-  </div>
-
-  <div style="border: 2px solid #eaeaea; border-radius: 10px; padding: 20px; width: 100%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img width="100%" height="200" src="https://github-profile-trophy.vercel.app/?username=berlinbruno&theme=radical&no-bg=true&margin-w=10" alt="GitHub Trophies" style="border-radius: 10px 10px 0 0;">
-    <p align="center" style="margin-top: 10px; font-weight: bold;">GitHub Trophies</p>
-  </div>
-</div>
-
----
-
-<h2 align="center">🎉 Fun Fact</h2>
-
 <p align="center">
-  I'm not just a developer—I'm a problem-solver. Whether it's building scalable web apps or diving into game development with Unity, I'm always up for a challenge!
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berlinbruno&layout=compact&theme=radical" alt="Most Used Languages"/>
 </p>
