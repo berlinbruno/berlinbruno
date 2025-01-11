@@ -1,7 +1,7 @@
 # Hi 👋, I'm Berlin Bruno
 
 ### A Passionate Full Stack Developer 🚀  
-- 🌱 Currently learning **Microservices**, **DevOps**, and **Cloud Architectures**  
+- 🌱 Currently learning **Microservices**, **Go**, and **Cloud Architectures**  
 - 💬 Ask me about **React**, **Next.js**, **Spring Boot**, and **Docker**  
 - 🌐 Check out my portfolio: [berlinbruno.dev](https://berlinbruno.dev)  
 - 📫 Reach me at **berlinbruno112@gmail.com**
