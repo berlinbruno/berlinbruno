@@ -1,34 +1,144 @@
-# Hi 👋, I'm Berlin Bruno
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Berlin%20Bruno&reversal=true&fontAlign=50&animation=fadeIn&fontSize=50&desc=@berlinbruno&descAlign=50&descAlignY=60"/>
+</p>
 
-### A Passionate Full Stack Developer 🚀  
-- 🌱 Currently learning **Microservices**, **Go**, and **Cloud Architectures**  
-- 💬 Ask me about **React**, **Next.js**, **Spring Boot**, and **Docker**  
-- 🌐 Check out my portfolio: [berlinbruno.dev](https://berlinbruno.dev)  
-- 📫 Reach me at **berlinbruno112@gmail.com**
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=48&pause=1000&center=true&vCenter=true&random=false&width=1200&height=100&lines=Java+FullStack+Developer" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Projects  
-### [**PostIt - Interactive Image Sharing App**](https://postitmedia.netlify.app/)  
-React app for sharing and downloading images, with Google OAuth and Sanity CMS.  
+## 🚀 A Passionate Full Stack Developer  
 
-### [**Personal Portfolio**](https://berlinbruno.dev)  
-Showcasing projects, skills, and blog posts with animations and a CMS backend.
+- 🌱 Currently exploring **Microservices**, **Go**, and **Cloud Architectures**  
+- 💬 Ask me about **React**, **Next.js**, **Spring Boot**, and **Docker**  
+- 🌐 Check out my portfolio: [**berlinbruno.dev**](https://berlinbruno.dev)  
+- 📫 Reach me at **berlinbruno112@gmail.com**  
 
-### [**Next.js Starter Template**](https://github.com/berlinbruno/nextjs-starter)  
-A powerful starter template for building Next.js applications with React, TypeScript, Tailwind CSS, and more. Ideal for setting up scalable web applications.
+---
+
+## 📌 Featured Projects  
+
+### 🎨 [PostIt - Interactive Image Sharing App](https://postitmedia.netlify.app/)  
+A React-based platform for sharing and downloading images, featuring Google OAuth and Sanity CMS.  
+
+### 🌍 [Personal Portfolio](https://berlinbruno.dev)  
+A dynamic portfolio showcasing projects, skills, and blog posts with animations and a CMS backend.  
+
+### 🏗️ [Next.js Starter Template](https://github.com/berlinbruno/nextjs-starter)  
+A powerful Next.js template with React, TypeScript, Tailwind CSS, and more for building scalable applications.  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-| **Category**       | **Technologies**                                                                                                                                                                                                 |
-|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages**       | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" /> |
-| **Frameworks**      | <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" /> |
-| **Cloud Platforms** | <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" /> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" /> |
-| **Tools**           | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" /> |
+<table align="left">
+    <tr>
+        <td align="center" width="96">
+            <a href="#macropower-tech">
+                <img src="https://skillicons.dev/icons?i=html" alt="icon" width="48" height="48" />
+            </a>
+            <br>HTML
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=css" alt="icon" width="48" height="48" />
+            <br>CSS
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="48" height="48" />
+            <br>JavaScript
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=typescript" alt="icon" width="48" height="48" />
+            <br>TypeScript
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=java" alt="icon" width="48" height="48" />
+            <br>Java
+        </td>
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=cs" alt="icon" width="48" height="48" />
+            <br>C#
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+            <br>Go
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+            <br>Bootstrap
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+            <br>Tailwind
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="tailwind" />
+            <br>Tailwind
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=react" alt="icon" width="48" height="48" />
+            <br>React
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="NextJS" />
+            <br>NextJS
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=astro" width="48" height="48" alt="NextJS" />
+            <br>Astro
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="NextJS" />
+            <br>Spring
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+            <br>MongoDB
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=mysql" alt="icon" width="48" height="48" />
+            <br>MySQL
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=aws" alt="icon" width="65" height="65" />
+            <br>AWS
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=azure" alt="icon" width="65" height="65" />
+            <br>Azure
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=gcp" alt="icon" width="65" height="65" />
+            <br>Azure
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=github" alt="icon" width="65" height="65" />
+            <br>Github
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+            <br>Git
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+            <br>VsCode
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="48" height="48" />
+            <br>Docker
+        </td>
+    </tr>
+</table>
 
----
 
-🌟 **Let’s build the future, one line of code at a time!**
+
