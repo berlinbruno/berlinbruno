@@ -79,7 +79,7 @@ A powerful Next.js template with React, TypeScript, Tailwind CSS, and more for b
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="tailwind" />
-            <br>Tailwind
+            <br>Material UI
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=react" alt="icon" width="48" height="48" />
@@ -90,11 +90,11 @@ A powerful Next.js template with React, TypeScript, Tailwind CSS, and more for b
             <br>NextJS
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=astro" width="48" height="48" alt="NextJS" />
+            <img src="https://skillicons.dev/icons?i=astro" width="48" height="48" alt="Astro" />
             <br>Astro
         </td>
         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="NextJS" />
+            <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
             <br>Spring
         </td>
     </tr>
@@ -117,7 +117,7 @@ A powerful Next.js template with React, TypeScript, Tailwind CSS, and more for b
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=gcp" alt="icon" width="65" height="65" />
-            <br>Azure
+            <br>GCP
         </td>
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=github" alt="icon" width="65" height="65" />
